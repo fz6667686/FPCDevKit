@@ -1,0 +1,18 @@
+{
+  "type": "tabs",
+  "name": "UsefulTabs",
+  "creator": "poteranii",
+  "value": "tabs",
+  "code": {
+    "tabs": [
+      {
+        "title": "Заметки",
+        "content": "# Заметки\n\n- пункт 1\n- пункт 2\n"
+      },
+      {
+        "title": "Шаблон Python",
+        "content": "if __name__ == \"__main__\":\n    print(\"Hello\")\n"
+      }
+    ]
+  }
+}

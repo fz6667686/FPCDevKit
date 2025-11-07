@@ -1,0 +1,60 @@
+{
+  "type": "theme",
+  "name": "test",
+  "creator": "test",
+  "value": "theme",
+  "code": {
+    "Светлая": {
+      "background": "#ffffff",
+      "foreground": "#2b0036",
+      "cursor": "#2b0036",
+      "selectbackground": "#c8a0e0",
+      "selectforeground": "#000000",
+      "linenumber_bg": "#f4e8f8",
+      "tab_bg": "#f7ecfb",
+      "tag": {
+        "keyword": {
+          "foreground": "#4b0082"
+        },
+        "string": {
+          "foreground": "#a31515"
+        },
+        "comment": {
+          "foreground": "#008000"
+        },
+        "number": {
+          "foreground": "#098658"
+        },
+        "builtin": {
+          "foreground": "#795e26"
+        }
+      }
+    },
+    "Тёмная": {
+      "background": "#1a0b1e",
+      "foreground": "#e6d6f2",
+      "cursor": "#ffffff",
+      "selectbackground": "#3a0f3d",
+      "selectforeground": "#ffffff",
+      "linenumber_bg": "#120612",
+      "tab_bg": "#170a17",
+      "tag": {
+        "keyword": {
+          "foreground": "#d29fff"
+        },
+        "string": {
+          "foreground": "#ffbda0"
+        },
+        "comment": {
+          "foreground": "#6aa84f"
+        },
+        "number": {
+          "foreground": "#b5cea8"
+        },
+        "builtin": {
+          "foreground": "#ffdcae"
+        }
+      }
+    }
+  }
+}

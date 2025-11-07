@@ -1,0 +1,11 @@
+{
+  "type": "bind",
+  "name": "InsertPrintBind",
+  "creator": "poteranii",
+  "value": "bind",
+  "code": {
+    "combo": "Ctrl+Alt+P",
+    "action": "insert",
+    "text": "print(\"Hello from bind\\n\")"
+  }
+}
